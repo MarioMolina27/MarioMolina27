@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-## About Me
+#### About Me
 - 👨‍💼 I'm Mario Molina.
 - 🌱 I'm currently in my third year of learning programming.
 - 💼 I have knowledge in the following technologies:
