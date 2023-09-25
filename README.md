@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**MarioMolina27/MarioMolina27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 👨‍💼 I'm Mario Molina.
+- 🌱 I'm currently in my third year of learning programming.
+- 💼 I have knowledge in the following technologies:
+  - C#
+  - Java
+  - Python
+  - Kotlin
+- 🚀 This year, I'm focusing on learning web development to expand my skills.
+- 📚 I'm always eager to learn and improve, so feel free to check out my repositories and provide feedback!
