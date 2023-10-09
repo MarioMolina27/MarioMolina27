@@ -19,7 +19,7 @@ Skills!
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="URL_DEL_ICONO_SQL_SERVER" width="36" height="36" alt="SQL Server" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/6463980/28998869-97bca9dc-7a03-11e7-8a95-3bbe9c1f7926.png" width="36" height="36" alt="Kotlin" /></a>
 </p>
 
